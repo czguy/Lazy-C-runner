@@ -1,0 +1,5 @@
+#czguy
+import os
+
+os.system("cc learning.c")
+os.system("./a.out")
